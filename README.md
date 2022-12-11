@@ -1,5 +1,4 @@
  # <a href="https://www.linkedin.com/in/Luis Egusquiza/">Luis Egusquiza </a> :smiley:
-<br/>
 Estudiante de Econoía | Subdirector de Área en Económica | Data Science | Machine Learning | R Estudio | Python | Stata | SQL Server |Competitive Programming
 
 ## About :sunglasses:
@@ -22,17 +21,11 @@ Estdudiante en el octavo ciclo en la carrera de economía. Actualmente soy Subdi
 
 
 
-<a href="https://github.com/ashwanisng">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanisng&theme=radical&hide=glsl,python" />
+<a href="https://github.com/LuisEgus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisEgus&theme=radical&hide=glsl,python" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashwanisng&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
-
-
-<a href="https://github.com/ashwanisng/Covid-19-Data-Analysis">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanisng&repo=Covid-19-Data-Analysis&theme=radical" />
-</a>    
+<img src="https://github-readme-stats.vercel.app/api?username=LuisEgus&&show_icons=true&theme=radical&line_height=27&v=5" alt="Luis Egusquiza's GitHub Stats" />
 
 
 ##  Contact Me :speech_balloon:
