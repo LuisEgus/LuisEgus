@@ -29,7 +29,7 @@ Estdudiante en el octavo ciclo en la carrera de economía. Actualmente soy Subdi
 
 
 ##  Contact Me :speech_balloon:
-[![Linkedin Badge](https://img.shields.io/badge/-ashwanisng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/luis-fernando-egusquiza-portillo-883712221/) [![Gmail Badge](https://img.shields.io/badge/-egusquiza.l@pucp.edu.pe-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:egusquiza.l@pucp.edu.pe)](mailto:egusquiza.l@pucp.edu.pe) 
+[![Linkedin Badge](https://img.shields.io/badge/-Luis Egusquiza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/luis-fernando-egusquiza-portillo-883712221/) [![Gmail Badge](https://img.shields.io/badge/-egusquiza.l@pucp.edu.pe-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:egusquiza.l@pucp.edu.pe)](mailto:egusquiza.l@pucp.edu.pe) 
 
 <p align="center"> 
   Visitor count<br>
