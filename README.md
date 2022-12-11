@@ -1,46 +1,19 @@
- # <a href="https://www.linkedin.com/in/Luis Egusquiza/">Luis Egusquiza Singh</a> :smiley:
+ # <a href="https://www.linkedin.com/in/Luis Egusquiza/">Luis Egusquiza </a> :smiley:
  
- <a href="https://twitter.com/ashwanisng">
-  <img align="left" alt="Ashwani's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/ashwanisng">
-  <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/ashwanisng">
-  <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/ashwanisng">
-  <img align="left" alt="Ashwani's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/ashwani1406">
-  <img align="left" alt="Ashwani's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://medium.com/@ashwanisng">
-  <img align="left" alt="Ashwani's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-
 <br/>
 <br/>
 
-Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Science | Machine Learning | Deep Learning | Android Development | Java | Python | Competitive Programming
+Estudiante de Econoía | Subdirector de Área en Económica | Data Science | Machine Learning | R Estudio | Python | Stata | SQL Server |Competitive Programming
 
 ## About :sunglasses:
-B.tech 3rd year Computer Science student. Currently working as a Contributor in Open Source organization Student Code-in and PClub Summer Of Code. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development and Data Analysis.
-
-## Communities :dancers:
-- Contributer at [Student Code-in](https://scodein.tech/) ( An Open Source organization.)
-- Contributer at [PClub Summer Of Code](http://pclubsummerofcode.in/) ( ( An Open Source organization.)
-- Campus Ambassador at [HackerEarth](https://www.hackerearth.com/challenges/)
+Estdudiante en el octavo ciclo en la carrera de economía. Actualmente soy Subdirector de Área en la Revista Económica. Tengo interés en temas actuariales, financieros y microeconómicos. También cuento con experiencia en Data wranglingn y Web Scrapping.
 
 ## Technologies :fire:
-- Data Analysis with **Python**.
-- Data Science.
-- Mobile application development using **Android (Java)**.
 - Python.
-- Java
-- Competitive Programming.
-- Machine Learning
-- Deep Learning
+- R estudio
+- Stata.
+- SQL Server
+- Visual Basic for Applications (VBA)
 
 **Languages and Tools:**  
 
