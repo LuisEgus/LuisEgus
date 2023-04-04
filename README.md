@@ -2,7 +2,7 @@
 Estudiante de Econoía | Subdirector de Área en Económica | Data Science | Machine Learning | R Estudio | Python | Stata | SQL Server |Competitive Programming
 
 ## About :sunglasses:
-Estudiante en el octavo ciclo en la carrera de economía. Actualmente tengo el cargo de Subdirector de Área en la Revista Económica. Presento mucho interés en temas actuariales, financieros y microeconómicos. También cuento con experiencia en Data wranglingn y Web Scrapping.
+Estudiante en el octavo ciclo en la carrera de economía. Actualmente tengo el cargo de Subdirector de Área en la Revista Económica. Presento mucho interés en temas actuariales, financieros y microeconómicos. También cuento con experiencia en Data wrangling y Web Scrapping.
 
 ## Technologies :fire:
 - Python.
